@@ -1,0 +1,13 @@
+{
+  "id" : "https://kat-kel.github.io/iiif-demo/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kat-kel/iiif-demo project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kat-kel.github.io/iiif-demo/manifests/manifest2.json",
+    "label" : "Une fievre brulante"
+  } ]
+}
