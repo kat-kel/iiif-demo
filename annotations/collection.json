@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://kat-kel.github.io/iiif-demo/annotations/3f1ffc9acb62ebc29f2fd9e924a15a30.json" ],
+  "@id" : "https://kat-kel.github.io/iiif-demo/annotations/collection.json",
+  "label" : "All annotations loaded in kat-kel/iiif-demo project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
