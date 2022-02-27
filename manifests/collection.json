@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kat-kel.github.io/iiif-demo/manifests/final",
     "label" : "Final - Une fievre brulante"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kat-kel.github.io/iiif-demo/manifests/manifest2.json",
+    "label" : "Une fievre brulante"
   } ]
 }
