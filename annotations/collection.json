@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://kat-kel.github.io/iiif-demo/annotations/3f1ffc9acb62ebc29f2fd9e924a15a30.json", "https://kat-kel.github.io/iiif-demo/annotations/a1809d8e355ce9672c9b70ed74b8d99a.json", "https://kat-kel.github.io/iiif-demo/annotations/95c3f72ac9658add8fbfa33c0f362e13.json", "https://kat-kel.github.io/iiif-demo/annotations/65af0412a128d45f2d5c0996b321ee7e.json", "https://kat-kel.github.io/iiif-demo/annotations/3e1b2a991692bcd514fd65009f152899.json", "https://kat-kel.github.io/iiif-demo/annotations/cd9b320a0d8cb68e73ef10d96cd955fd.json" ],
+  "otherContent" : [ "https://kat-kel.github.io/iiif-demo/annotations/3f1ffc9acb62ebc29f2fd9e924a15a30.json", "https://kat-kel.github.io/iiif-demo/annotations/a1809d8e355ce9672c9b70ed74b8d99a.json", "https://kat-kel.github.io/iiif-demo/annotations/95c3f72ac9658add8fbfa33c0f362e13.json", "https://kat-kel.github.io/iiif-demo/annotations/65af0412a128d45f2d5c0996b321ee7e.json", "https://kat-kel.github.io/iiif-demo/annotations/3e1b2a991692bcd514fd65009f152899.json", "https://kat-kel.github.io/iiif-demo/annotations/cd9b320a0d8cb68e73ef10d96cd955fd.json", "https://kat-kel.github.io/iiif-demo/annotations/0c8912433000b5049a8c36dad1b8af9b.json" ],
   "@id" : "https://kat-kel.github.io/iiif-demo/annotations/collection.json",
   "label" : "All annotations loaded in kat-kel/iiif-demo project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
