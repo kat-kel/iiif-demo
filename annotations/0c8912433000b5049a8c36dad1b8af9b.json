@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "kelly",
+      "@type" : "oa:Tag",
+      "chars" : "kelly"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "both voices together",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>both voices together</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/116038795253507592046",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T07:23:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645946634194",
+    "dcterms:modified" : "2022-02-27T07:23:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kat-kel.github.io/iiif-demo/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=604,925,2985,3512"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3589.05605,4436.38565h-1492.33184v0h-1492.33184v-1755.86099v-1755.86099h1492.33184h1492.33184v1755.86099z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b67369db-c82c-4bb6-babb-a7d1128f3b64\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://661d6f9a-047b-41a0-8039-a9a1716c9ade"
+    } ]
+  } ],
+  "@id" : "https://kat-kel.github.io/iiif-demo/annotations/0c8912433000b5049a8c36dad1b8af9b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
