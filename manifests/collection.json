@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kat-kel.github.io/iiif-demo/manifests/final",
+    "label" : "Final - Une fievre brulante"
+  } ]
 }
